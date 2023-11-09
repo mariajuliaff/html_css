@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(142, 252, 142);
+    color: black;
+    text-align: right;
+}
+p{
+    background-color: aquamarine;
+    color: black;
+    text-align: justify;
+}
+h1 {
+    background-color: rgb(163, 69, 37);
+    color: brown;
+    text-align: center;
+}
